@@ -1,0 +1,23 @@
+.box{
+	margin:10px 0;
+	min-height:100px;
+	background-color:#e71212 ;
+	font-size:30px;
+}
+.header, .bar_area,.footer_area,
+.hero_area, .body_area{
+	background-color:#a90c0c;
+	margin-bottom:10px;
+}
+
+
+
+.red_box{
+	background-color:#189191 ;
+}
+.five_box{
+	background-color:cyan ;
+}
+.green{
+	background-color:#b10e0ee0;
+}
